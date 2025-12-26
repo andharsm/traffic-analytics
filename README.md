@@ -1,5 +1,9 @@
 # Real-Time Video Analytics — Speed Estimation & Historical Insight
 
+Link Collab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/drive/11ZP_fdsYADDBYcXbw2Hq3moOdP9jUEWp?usp=sharing
+)
+
 Notebook ini mendemonstrasikan penerapan **real-time video analytics** menggunakan computer vision untuk:
 - object detection & tracking
 - speed estimation berbasis world coordinate
@@ -35,13 +39,7 @@ Notebook ini ditujukan sebagai:
   Menggunakan ByteTrack untuk menjaga konsistensi ID antar frame.
 
 - **Speed Estimation**  
-  Kecepatan dihitung dari perpindahan posisi objek di dunia nyata:
-  
-  \[
-  v = \frac{\Delta s}{\Delta t}
-  \]
-
-  dengan transformasi pixel → meter menggunakan homography.
+  Kecepatan dihitung dari perpindahan posisi objek di dunia nyata dengan transformasi pixel → meter menggunakan homography.
 
 - **Geofencing**  
   Zona IN dan OUT digunakan untuk:
