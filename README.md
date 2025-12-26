@@ -1,6 +1,6 @@
 # Real-Time Video Analytics — Speed Estimation & Historical Insight
 
-Link Collab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/drive/11ZP_fdsYADDBYcXbw2Hq3moOdP9jUEWp?usp=sharing
 )
 
